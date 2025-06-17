@@ -18,6 +18,8 @@ when I get a chance, I will set up an actual push notification testing setup
 
 on the apple ecosystem, this requires me to set up developer tools and get certificates and a bunch of other fun things
 
+- use my own instagram accounts to send messages to myself and get push notifications! 
+
 ## APPLE - APNs
 
 `sudo tcpdump -i any tcp port 5223 -w apns.pcap`
