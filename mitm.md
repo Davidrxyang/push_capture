@@ -39,4 +39,5 @@ go to mitm.it, download android certificate, install on device
 
 -> now we are capturing traffic!
 
+TODO: automate some of this stuff with scripts? be very careful with ip addresses ... 
 
