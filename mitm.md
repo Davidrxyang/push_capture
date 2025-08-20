@@ -25,6 +25,8 @@ ip addr show
 
 - set the port to 8080
 
+- Note: setting the proxy in network settings does not force app providers to obey the proxy. WIP. 
+
 ### activate mitmproxy 
 
 ```
